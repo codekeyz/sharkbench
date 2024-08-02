@@ -4,4 +4,4 @@ environment:
   sdk: ^3.0.0
 
 dependencies:
-  pharaoh: ^0.0.7+1
+  pharaoh: ^0.0.8

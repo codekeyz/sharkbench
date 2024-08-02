@@ -8,4 +8,4 @@ framework: Pharaoh
 framework_website: https://pub.dev/packages/pharaoh
 framework_flavor: Default
 framework_version:
-  - '0.0.7+1'
+  - '0.0.8'
